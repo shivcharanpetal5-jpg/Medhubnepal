@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of QuickMed Nepal",
+  "description": "A medical web hub for dosage calculation and educational blood group analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
